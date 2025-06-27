@@ -1,2 +1,2 @@
 # team-project
-CS演習　webページ作成
+CS演習webページ作成
